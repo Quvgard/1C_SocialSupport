@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="Catalog.Граждане" id="cb8ff2e1-98de-4bbe-8be7-5656dc0d469a" configVersion="263979bae19f214f906d1ba1a2f6b3e200000000">
+			<Metadata name="Catalog.Граждане.Attribute.Снилс" id="0915e5b6-8134-4040-b761-5a3ccb77ee67"/>
+			<Metadata name="Catalog.Граждане.Attribute.ДатаРождения" id="16bd1163-47c3-468a-9b02-0713870c5e73"/>
+			<Metadata name="Catalog.Граждане.Attribute.EMail" id="1ee41535-fe82-4941-97bb-c03d59810b2c"/>
+			<Metadata name="Catalog.Граждане.Attribute.ИНН" id="3bd8ad4b-6b95-499f-a297-978fc761889a"/>
+			<Metadata name="Catalog.Граждане.Attribute.ДатаВыдачи" id="476ae358-d151-43c1-b5cc-32b70efd39db"/>
+			<Metadata name="Catalog.Граждане.Attribute.ФактическийАдрес" id="58760294-4f10-4d56-b4dc-e9bace4109a7"/>
+			<Metadata name="Catalog.Граждане.Attribute.КатегорияГражданина" id="706ec6f7-02ae-4840-ac2f-234b6b3374cc"/>
+			<Metadata name="Catalog.Граждане.Attribute.ТекущийСтатусНуждаемости" id="98a39298-fe14-4ce6-b81a-ccc14c78cad2"/>
+			<Metadata name="Catalog.Граждане.Attribute.АдресРегистрации" id="9b7cdab0-2d2e-42cd-adda-5a0a0eb150bf"/>
+			<Metadata name="Catalog.Граждане.Attribute.КемВыдан" id="b74c7f1b-5a6c-40c7-ab49-3dc5bd05dc93"/>
+			<Metadata name="Catalog.Граждане.Attribute.СоциальныйСтатус" id="b934ea95-031a-4e3a-848b-0fd2a726bade"/>
+			<Metadata name="Catalog.Граждане.Attribute.СерияИНомер" id="cd615036-3ac0-4123-b71f-b46f3a5c2129"/>
+			<Metadata name="Catalog.Граждане.Attribute.НомерТелефона" id="de9f3b36-85d1-4b7f-92a7-7de21ebc2778"/>
+			<Metadata name="Catalog.Граждане.Attribute.КодПодразделения" id="e62c3864-d33a-44c3-bb99-be9ecea1f496"/>
+			<Metadata name="Catalog.Граждане.Attribute.ДатаРегистрации" id="fd0bcb10-b77f-4c95-9a9f-9b68f1d6a279"/>
+		</Metadata>
+		<Metadata name="Catalog.Граждане.Form.ФормаСписка" id="7ff46f5b-36b7-4591-bb9f-2776a512106a" configVersion="dca5c0bc32f6f9449b6a80a63e00baf900000000"/>
+		<Metadata name="Catalog.Граждане.Form.ФормаСписка.Form" id="7ff46f5b-36b7-4591-bb9f-2776a512106a.0" configVersion="1b135a5c28d9f141a7fde760c6c1f5e000000000"/>
+		<Metadata name="Catalog.Граждане.Form.ФормаЭлемента" id="1b3245d5-8987-41cc-aecd-cd8e6e5b5d95" configVersion="b5b1e67495b3e14abfe149e5222e3c6500000000"/>
+		<Metadata name="Catalog.Граждане.Form.ФормаЭлемента.Form" id="1b3245d5-8987-41cc-aecd-cd8e6e5b5d95.0" configVersion="61cd4f313b7b694299a877617277baca00000000"/>
+		<Metadata name="Catalog.Сотрудники" id="6502e278-3cad-4601-ac0d-e275fe06ce02" configVersion="730cb32295dc7043ad5c15c2b6df405600000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.ДатаУвольнения" id="854cf02f-c9bd-415e-92bf-ea16c4e7033e"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="9ae30aaa-ef8f-4273-bad6-45bafe7b4003"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Картинка" id="9d9af4c1-c5e3-4e3c-b533-ab7517e3ae06"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Отдел" id="bbae097c-add2-4c9e-9b83-2d8e254f3933"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.НомерТелефона" id="e2234c0f-e076-4aa8-8344-ea983007e1b6"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.ДатаТрудоустройства" id="f9dc90ca-0e0a-4f13-8ebb-c6d5868dd950"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="7f80520f-37b5-482b-b89c-ded21bc8277c" configVersion="b10a05531f0fca4da034b52b883153fc00000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="7f80520f-37b5-482b-b89c-ded21bc8277c.0" configVersion="1f1dc91dfc3e064d927f5d1cc58a8f8900000000"/>
+		<Metadata name="Catalog.ТипыПомощи" id="af835022-ffd5-484f-b83b-017179c0ce66" configVersion="f1cf96a056be5049b327b4ed41e6354400000000">
+			<Metadata name="Catalog.ТипыПомощи.Attribute.МаксимальныйОбъемПомощи" id="06b29895-6ddc-4dac-bef9-7e275e57cee0"/>
+			<Metadata name="Catalog.ТипыПомощи.Attribute.КатегорияПолучателей" id="3881aeeb-579b-4d75-b7ce-7cc3f3ec474b"/>
+			<Metadata name="Catalog.ТипыПомощи.Attribute.УсловияПредоставления" id="a23dab75-d331-4da1-91ec-08284c59a3c5"/>
+			<Metadata name="Catalog.ТипыПомощи.Attribute.Описание" id="b78bb95c-1456-489d-9523-15b3af7d13de"/>
+			<Metadata name="Catalog.ТипыПомощи.Attribute.ПериодичностьПомощи" id="cb215bf4-64a6-4780-a3c5-4ef00e4e9422"/>
+			<Metadata name="Catalog.ТипыПомощи.Attribute.Комментарий" id="dd81e894-f3a1-404e-8d6a-f00b38d8f5a3"/>
+		</Metadata>
+		<Metadata name="Catalog.ТипыПомощи.Form.ФормаЭлемента" id="3bd8b4b8-07f7-44f0-81fd-4e339863d462" configVersion="3fe1997f0041054ab5b50be78655782400000000"/>
+		<Metadata name="Catalog.ТипыПомощи.Form.ФормаЭлемента.Form" id="3bd8b4b8-07f7-44f0-81fd-4e339863d462.0" configVersion="972e0378267ce14e8acffcded33cd8b800000000"/>
+		<Metadata name="Catalog.ФайлыГраждан" id="bc213f79-3768-4b37-a1a2-399f2588338c" configVersion="49573d1d24ac044eac5a7aeb89b5054800000000">
+			<Metadata name="Catalog.ФайлыГраждан.Attribute.Расширение" id="57ea0f10-53da-4d40-8339-8d4b45517841"/>
+			<Metadata name="Catalog.ФайлыГраждан.Attribute.ПометкаФотография" id="9ee6eb2e-06f3-48fe-9299-fe28e795ab5b"/>
+			<Metadata name="Catalog.ФайлыГраждан.Attribute.Файл" id="febd1066-2efe-453d-a00e-f2e174529103"/>
+		</Metadata>
+		<Metadata name="Catalog.ФайлыГраждан.Form.ФормаСписка" id="fab1e0ef-0a99-4df7-8353-d13862bebd2e" configVersion="376e9000004cda478b76ede37e97994000000000"/>
+		<Metadata name="Catalog.ФайлыГраждан.Form.ФормаСписка.Form" id="fab1e0ef-0a99-4df7-8353-d13862bebd2e.0" configVersion="24aec79fe8096b4c932ce608f227159500000000"/>
+		<Metadata name="Catalog.ФайлыГраждан.Form.ФормаЭлемента" id="43c409df-6b19-42bc-8380-a1558eda7bc8" configVersion="a150d74bf9e94549b7fc40f93b481a6300000000"/>
+		<Metadata name="Catalog.ФайлыГраждан.Form.ФормаЭлемента.Form" id="43c409df-6b19-42bc-8380-a1558eda7bc8.0" configVersion="ef8719bb085e424dbc9b4365646e760000000000"/>
+		<Metadata name="Catalog.ФайлыГраждан.Form.ФормаЭлемента.Help" id="43c409df-6b19-42bc-8380-a1558eda7bc8.1" configVersion="dd0a5cbcb515b944910ec72a4c93a8f500000000"/>
+		<Metadata name="Catalog.ФайлыГраждан.Help" id="bc213f79-3768-4b37-a1a2-399f2588338c.1" configVersion="490c9bba7efb334d9a1a8c1b59db8a2d00000000"/>
+		<Metadata name="Catalog.ФайлыГраждан.ManagerModule" id="bc213f79-3768-4b37-a1a2-399f2588338c.3" configVersion="ce613adaefae2b4f92fc4cf2f2261f5b00000000"/>
+		<Metadata name="Catalog.ФайлыГраждан.ObjectModule" id="bc213f79-3768-4b37-a1a2-399f2588338c.0" configVersion="b339aa5e32a97d46a5158ca8b11e063900000000"/>
+		<Metadata name="Catalog.ФайлыГраждан.Predefined" id="bc213f79-3768-4b37-a1a2-399f2588338c.1c" configVersion="9da93a47d0c8684cba8e5a8fd617819600000000"/>
+		<Metadata name="CommonPicture.Администрирование" id="3bd6c7bc-af6e-45c0-a0e4-b61a9fbe2a85" configVersion="8f3adb017cce9e4399858b7564e00a8900000000"/>
+		<Metadata name="CommonPicture.Администрирование.Picture" id="3bd6c7bc-af6e-45c0-a0e4-b61a9fbe2a85.0" configVersion="838bc36e8941b7429dcd228ef56a7bc400000000"/>
+		<Metadata name="CommonPicture.РаботаСГражданами" id="f8851870-915b-4bad-a4d3-1b427271dccb" configVersion="97075e2fd878644ab744d3c349cdc75200000000"/>
+		<Metadata name="CommonPicture.РаботаСГражданами.Picture" id="f8851870-915b-4bad-a4d3-1b427271dccb.0" configVersion="88ce008298c0174d8565e8d26bbe7c0f00000000"/>
+		<Metadata name="Configuration.УчетГражданНуждающихсяВСоциальнойПомощи" id="7da006d5-8561-40fc-882b-f645e742fc65" configVersion="2f72ab46c7178a4c9c082b60ca8cc20e00000000"/>
+		<Metadata name="Configuration.УчетГражданНуждающихсяВСоциальнойПомощи.ClientApplicationInterface" id="982216ac-92fe-4016-93f8-b5f27d9f1ccd.b" configVersion="be60d56134933c45beb8608320c82cad00000000"/>
+		<Metadata name="Configuration.УчетГражданНуждающихсяВСоциальнойПомощи.CommandInterface" id="982216ac-92fe-4016-93f8-b5f27d9f1ccd.a" configVersion="3f080904b149c045878d272a5066bac000000000"/>
+		<Metadata name="Configuration.УчетГражданНуждающихсяВСоциальнойПомощи.HomePageWorkArea" id="982216ac-92fe-4016-93f8-b5f27d9f1ccd.8" configVersion="7728dd404c7f1f4880fd28af6daf3b9c00000000"/>
+		<Metadata name="Document.НазначениеПомощи" id="0e570f0e-990f-45c7-85a9-fa0879759cc2" configVersion="a235dcf0bc49af4fb296f56482b322fe00000000">
+			<Metadata name="Document.НазначениеПомощи.Attribute.СрокПредоставленияПомощи" id="0d2de1d7-360d-42e8-b2e3-d08eae1ad854"/>
+			<Metadata name="Document.НазначениеПомощи.Attribute.ДатаНазначения" id="11478ad8-5030-43c4-bb81-8e33db64879b"/>
+			<Metadata name="Document.НазначениеПомощи.Attribute.ТипПомощи" id="1612d9ae-caa8-45ba-a399-3bb8832bd04c"/>
+			<Metadata name="Document.НазначениеПомощи.Attribute.ОбъемПомощи" id="24469587-49cd-417c-a17a-4fe87a11b55a"/>
+			<Metadata name="Document.НазначениеПомощи.Attribute.IDРассмотрения" id="8331773f-42e6-49b7-b143-c17565eea0d4"/>
+			<Metadata name="Document.НазначениеПомощи.Attribute.ОтветственныйСотрудник" id="ba089fdd-7468-4dd6-9bb3-3c706a35d5a3"/>
+			<Metadata name="Document.НазначениеПомощи.Attribute.IDГражданина" id="cbf81040-2440-4102-8352-ddbb3b0a1ce6"/>
+			<Metadata name="Document.НазначениеПомощи.Attribute.Комментарий" id="d304d241-7ec6-45c0-a353-c8d86c117b54"/>
+		</Metadata>
+		<Metadata name="Document.НазначениеПомощи.Form.ФормаВыбора" id="69250bd5-47c1-43e1-935e-7dd794a72197" configVersion="f1b823027ba57540bd29bd609e5b695d00000000"/>
+		<Metadata name="Document.НазначениеПомощи.Form.ФормаВыбора.Form" id="69250bd5-47c1-43e1-935e-7dd794a72197.0" configVersion="dea2d5fa96fd2545b35920e537e0b2b200000000"/>
+		<Metadata name="Document.НазначениеПомощи.Form.ФормаДокумента" id="05898ab1-8e6c-4c27-8390-886d6f5953f9" configVersion="f20691564a000f498df53675a1833b7f00000000"/>
+		<Metadata name="Document.НазначениеПомощи.Form.ФормаДокумента.Form" id="05898ab1-8e6c-4c27-8390-886d6f5953f9.0" configVersion="71a456c10fccad48b20727b4debb2ad800000000"/>
+		<Metadata name="Document.НазначениеПомощи.ObjectModule" id="0e570f0e-990f-45c7-85a9-fa0879759cc2.0" configVersion="4cbf1b32366e704fbdf8e276be5d85b600000000"/>
+		<Metadata name="Document.ОбращениеЗаПомощью" id="b3952ec0-ce39-48b8-be31-7a62c70919c0" configVersion="0145e687a3a07d48838ee70414a802aa00000000">
+			<Metadata name="Document.ОбращениеЗаПомощью.Attribute.СоставСемьи" id="0adcb317-f26c-45b0-96d9-62be1b445a09"/>
+			<Metadata name="Document.ОбращениеЗаПомощью.Attribute.ПричинаОбращения" id="1695e367-29f0-4568-b41c-233715cad8e9"/>
+			<Metadata name="Document.ОбращениеЗаПомощью.Attribute.Комментарий" id="1ae4ef0b-6c33-4fbd-ac92-f5d61845d39f"/>
+			<Metadata name="Document.ОбращениеЗаПомощью.Attribute.СтатусОбращения" id="3b97ac4e-71ad-42be-9caa-9972ed6758c4"/>
+			<Metadata name="Document.ОбращениеЗаПомощью.Attribute.ТипЗапрашиваемойПомощи" id="44fa0413-bb70-4737-8b2b-72f26a3e5829"/>
+			<Metadata name="Document.ОбращениеЗаПомощью.Attribute.ТекущийДоход" id="47e2ae05-ef36-463f-bf60-03a2c384f0ad"/>
+			<Metadata name="Document.ОбращениеЗаПомощью.Attribute.ОтветственныйСотрудник" id="589cd6cc-a148-49b3-8049-984b4bd4a247"/>
+			<Metadata name="Document.ОбращениеЗаПомощью.Attribute.ДатаОбращения" id="5ef64b4c-225b-44b1-be45-1d7dd71ad41c"/>
+			<Metadata name="Document.ОбращениеЗаПомощью.Attribute.IDГражданина" id="eff37e18-aeff-411e-b290-319ff03f36e7"/>
+		</Metadata>
+		<Metadata name="Document.ОбращениеЗаПомощью.Form.ФормаВыбора" id="02d6197a-c363-436d-9696-ebbf8ad38f4f" configVersion="6097558dd588464db3f473eb51a52c8d00000000"/>
+		<Metadata name="Document.ОбращениеЗаПомощью.Form.ФормаВыбора.Form" id="02d6197a-c363-436d-9696-ebbf8ad38f4f.0" configVersion="cfae9c3a317bf2468e416a842597459800000000"/>
+		<Metadata name="Document.ОбращениеЗаПомощью.Form.ФормаДокумента" id="21fdf6e7-6823-4974-9557-8982dd85b73b" configVersion="539850d3a05f9f4785b50184d8c55c2f00000000"/>
+		<Metadata name="Document.ОбращениеЗаПомощью.Form.ФормаДокумента.Form" id="21fdf6e7-6823-4974-9557-8982dd85b73b.0" configVersion="39f04cfb4a959647b136c067563a2d5000000000"/>
+		<Metadata name="Document.ОбращениеЗаПомощью.ObjectModule" id="b3952ec0-ce39-48b8-be31-7a62c70919c0.0" configVersion="e94db0ebfb6a8e4fb7ecd28a10fcf8b000000000"/>
+		<Metadata name="Document.ПервичнаяРегистрация" id="aefc4194-5656-4b9e-9aae-1887f36ec61d" configVersion="8d12e01e7c72c74b842a10fa1eed082c00000000">
+			<Metadata name="Document.ПервичнаяРегистрация.Attribute.КемВыдан" id="00197f9c-5f9a-4600-9f8a-b295842479db"/>
+			<Metadata name="Document.ПервичнаяРегистрация.Attribute.IDГражданина" id="073642c1-b96b-460b-bb86-e6c089b40c33"/>
+			<Metadata name="Document.ПервичнаяРегистрация.Attribute.ФактическийАдрес" id="4cf63fc4-76d4-47eb-bff7-fb7fddf1842b"/>
+			<Metadata name="Document.ПервичнаяРегистрация.Attribute.КатегорияГражданина" id="65a3b681-d949-425c-a567-87f90a746776"/>
+			<Metadata name="Document.ПервичнаяРегистрация.Attribute.КодПодразделения" id="754683d8-d4ce-4d71-adc0-2d38074258ab"/>
+			<Metadata name="Document.ПервичнаяРегистрация.Attribute.ФИО" id="769adee1-f7d9-4b9d-ab3d-04b4b3d1917a"/>
+			<Metadata name="Document.ПервичнаяРегистрация.Attribute.СерияИНомер" id="7d9da8d0-fe10-432b-bb50-e57272cfaacb"/>
+			<Metadata name="Document.ПервичнаяРегистрация.Attribute.НомерТелефона" id="7fbeff59-dcd1-427b-a231-69ba8678498d"/>
+			<Metadata name="Document.ПервичнаяРегистрация.Attribute.ДатаВыдачи" id="9c7c0b9b-0525-4a07-805e-7b592ec2d45a"/>
+			<Metadata name="Document.ПервичнаяРегистрация.Attribute.ВнесенВБД" id="a599e2c4-9e15-4dd1-bfd7-918f0f09e944"/>
+			<Metadata name="Document.ПервичнаяРегистрация.Attribute.EMail" id="ae1536a0-4ec9-4e30-90e1-aa15de7182e0"/>
+			<Metadata name="Document.ПервичнаяРегистрация.Attribute.СоциальныйСтатус" id="eb311d5f-6525-4751-a55e-9fde583c180c"/>
+			<Metadata name="Document.ПервичнаяРегистрация.Attribute.ДатаРождения" id="ebe9ca65-0e8e-47d3-ae7c-5a9b65796c5d"/>
+		</Metadata>
+		<Metadata name="Document.ПервичнаяРегистрация.Form.ФормаВыбора" id="f66c9e1f-26cd-46c2-8230-f6967964144d" configVersion="5d8cae45f3b142438ff2c4e1a79817c800000000"/>
+		<Metadata name="Document.ПервичнаяРегистрация.Form.ФормаВыбора.Form" id="f66c9e1f-26cd-46c2-8230-f6967964144d.0" configVersion="141189245b66724aad5f754bac26079b00000000"/>
+		<Metadata name="Document.ПервичнаяРегистрация.Form.ФормаДокумента" id="9c591dcb-5b80-49d2-b8af-69ee1dfb69e9" configVersion="af19ea39df5eee4c99ccd2bfdd27913200000000"/>
+		<Metadata name="Document.ПервичнаяРегистрация.Form.ФормаДокумента.Form" id="9c591dcb-5b80-49d2-b8af-69ee1dfb69e9.0" configVersion="b8ce8e5c72a58b418e9580d005daba9400000000"/>
+		<Metadata name="Document.РассмотрениеОбращения" id="e5959819-ab7a-4c1a-aecd-f342d4b339cc" configVersion="4993476a965d9c4cb1133afe41ce81c000000000">
+			<Metadata name="Document.РассмотрениеОбращения.Attribute.IDГражданина" id="4c9f9b0c-b10d-4248-94ca-f802b5c30abd"/>
+			<Metadata name="Document.РассмотрениеОбращения.Attribute.ДатаНачалаРассмотрения" id="580a101c-9d0c-4806-9236-9de9cf0909ad"/>
+			<Metadata name="Document.РассмотрениеОбращения.Attribute.Комментарий" id="7b22dac7-ee6d-4cfc-a7c6-3788c1d272ff"/>
+			<Metadata name="Document.РассмотрениеОбращения.Attribute.ДатаЗавершенияРассмотрения" id="8510ab86-e47e-46a1-b257-5ea5b4e9845f"/>
+			<Metadata name="Document.РассмотрениеОбращения.Attribute.Решение" id="d9225faa-019e-4ae1-b950-3ad5d48e127f"/>
+			<Metadata name="Document.РассмотрениеОбращения.Attribute.IDОбращения" id="e6b5dfe4-4812-4289-b4a7-e6b2e05d8bcd"/>
+			<Metadata name="Document.РассмотрениеОбращения.Attribute.ОбоснованиеРешения" id="ef5668fc-2c3e-4759-9e51-5a1da44408c7"/>
+			<Metadata name="Document.РассмотрениеОбращения.Attribute.ОтветственныйСотрудник" id="f836b4d6-3655-46e8-9099-d6cd520953ae"/>
+		</Metadata>
+		<Metadata name="Document.РассмотрениеОбращения.Form.ФормаВыбора" id="65559c15-f1ee-4d8d-a61c-b12215466b72" configVersion="50787cc1cbdf16419056e4d5cfb2f27000000000"/>
+		<Metadata name="Document.РассмотрениеОбращения.Form.ФормаВыбора.Form" id="65559c15-f1ee-4d8d-a61c-b12215466b72.0" configVersion="ef193ede03da2f41958956918df72ef500000000"/>
+		<Metadata name="Document.РассмотрениеОбращения.Form.ФормаДокумента" id="fbdbfc6a-9c13-498d-86ca-7b56873054fe" configVersion="e785858afc893e4aa5b02f29311974f200000000"/>
+		<Metadata name="Document.РассмотрениеОбращения.Form.ФормаДокумента.Form" id="fbdbfc6a-9c13-498d-86ca-7b56873054fe.0" configVersion="b432fc3b745e324f920f7b245ef9680400000000"/>
+		<Metadata name="Document.РассмотрениеОбращения.ObjectModule" id="e5959819-ab7a-4c1a-aecd-f342d4b339cc.0" configVersion="8e811909ea9f8547a179a6b2045ce08000000000"/>
+		<Metadata name="Document.ФактическаяВыдачаПомощи" id="c9806644-f063-40f2-a93f-9a73a30dbb6c" configVersion="12da8dee4d316d4fbc62a8ec41d366f600000000">
+			<Metadata name="Document.ФактическаяВыдачаПомощи.Attribute.ПодтверждениеПолучения" id="0a33ab65-1b76-49e7-8bda-e15af8157be7"/>
+			<Metadata name="Document.ФактическаяВыдачаПомощи.Attribute.IDНазначения" id="24b26f12-e5ee-4d56-b1e2-051174297222"/>
+			<Metadata name="Document.ФактическаяВыдачаПомощи.Attribute.ДатаВыдачиПомощи" id="4fa668ba-a921-4c00-870b-9195c0a10964"/>
+			<Metadata name="Document.ФактическаяВыдачаПомощи.Attribute.ОтветственныйСотрудник" id="66e5b1c2-3447-4f2e-8567-7ad40f48ff76"/>
+			<Metadata name="Document.ФактическаяВыдачаПомощи.TabularSection.ПереченьВыданныхПредметов" id="756003f4-dced-466d-a6a3-4dd8d3225728"/>
+			<Metadata name="Document.ФактическаяВыдачаПомощи.Attribute.Комментарий" id="9b97203a-7e28-4b38-817c-d23159df8d39"/>
+			<Metadata name="Document.ФактическаяВыдачаПомощи.Attribute.IDГражданина" id="a2cea47d-c9ff-4cca-b907-7a5480c3367e"/>
+			<Metadata name="Document.ФактическаяВыдачаПомощи.TabularSection.ПереченьВыданныхПредметов.Attribute.Наименование" id="bccd28a1-cc3f-4b39-8801-139d0fd293d6"/>
+			<Metadata name="Document.ФактическаяВыдачаПомощи.Attribute.ТипВыданнойПомощи" id="c45dc214-eacf-462a-aec3-6867c70327c9"/>
+			<Metadata name="Document.ФактическаяВыдачаПомощи.Attribute.КоличествоСуммаПомощи" id="e08658c9-cf99-4739-9e82-333afe6eb27a"/>
+		</Metadata>
+		<Metadata name="Document.ФактическаяВыдачаПомощи.Form.ФормаДокумента" id="b136735c-7e01-4a61-aff0-7309b0e80afb" configVersion="d90f81dbd0bb2d4daf2962a2ea489dad00000000"/>
+		<Metadata name="Document.ФактическаяВыдачаПомощи.Form.ФормаДокумента.Form" id="b136735c-7e01-4a61-aff0-7309b0e80afb.0" configVersion="dadf702e72fb7442ae0123b750be916e00000000"/>
+		<Metadata name="Document.ФактическаяВыдачаПомощи.ObjectModule" id="c9806644-f063-40f2-a93f-9a73a30dbb6c.0" configVersion="639d43feb3a8aa488d2c19b6648034b200000000"/>
+		<Metadata name="Enum.ВидыРешения" id="858e369d-976a-4583-977d-bafb0e481afb" configVersion="98e23f24b4ebcf4a94687b66045ca5b000000000">
+			<Metadata name="Enum.ВидыРешения.EnumValue.Одобрено" id="18f5d515-4544-444e-a591-3ce8f318062b"/>
+			<Metadata name="Enum.ВидыРешения.EnumValue.Отказано" id="35eb417d-ea54-4e94-b9c2-96b8e698cac6"/>
+			<Metadata name="Enum.ВидыРешения.EnumValue.ЧастичноУдовлетворено" id="6b820260-07aa-4f8c-a3b0-f114b8566262"/>
+		</Metadata>
+		<Metadata name="Enum.ВидыРодства" id="9125c421-a169-4f11-a6a5-8120c1089243" configVersion="10467f4c4d784a478ddf1e2a5d2c082200000000">
+			<Metadata name="Enum.ВидыРодства.EnumValue.Брат" id="0bf20b7b-5151-4b68-9740-0d4ef89d4b8c"/>
+			<Metadata name="Enum.ВидыРодства.EnumValue.Дочь" id="48173cce-b696-40cf-93ff-6fffaa779dee"/>
+			<Metadata name="Enum.ВидыРодства.EnumValue.Сестра" id="7f0f2ed9-122f-46b1-8e90-0c877a5ca03b"/>
+			<Metadata name="Enum.ВидыРодства.EnumValue.Сын" id="8b215b9b-ade1-4d2b-a34a-e8cbac84a83f"/>
+			<Metadata name="Enum.ВидыРодства.EnumValue.Мачеха" id="a7af0cbc-a6ea-4fda-9d55-ddd8e4972a50"/>
+			<Metadata name="Enum.ВидыРодства.EnumValue.Папа" id="db9609e7-d531-4144-9798-5d9330452d34"/>
+			<Metadata name="Enum.ВидыРодства.EnumValue.Мама" id="e6397236-da17-4de5-9f97-855a0cb8af40"/>
+			<Metadata name="Enum.ВидыРодства.EnumValue.Отчим" id="e90e11a0-ec95-400a-959e-a4c98f0e94dd"/>
+		</Metadata>
+		<Metadata name="Enum.КатегорииГраждан" id="57122b98-ed6d-459a-bbd1-ffcf3a505138" configVersion="9359b91c87f62b4eaf8c273e2117ad3f00000000">
+			<Metadata name="Enum.КатегорииГраждан.EnumValue.БеременныеЖенщиныИЖенщиныСМаленькимиДетьми" id="1487724b-2371-425c-93a4-4014b236d71b"/>
+			<Metadata name="Enum.КатегорииГраждан.EnumValue.МногодетныеСемьи" id="15df0879-7b7a-4ce1-bf6b-e039574139fd"/>
+			<Metadata name="Enum.КатегорииГраждан.EnumValue.Инвалиды" id="1638de35-47c0-45e2-b854-459a27bd0644"/>
+			<Metadata name="Enum.КатегорииГраждан.EnumValue.ОдинокиеРодители" id="1c429ef0-40f0-49ab-8854-d88ca85bfbf9"/>
+			<Metadata name="Enum.КатегорииГраждан.EnumValue.БезработныеСтоящиеНаУчетеВСлужбеЗанятости" id="42b94c87-8235-4d07-a2c1-d877533726d4"/>
+			<Metadata name="Enum.КатегорииГраждан.EnumValue.ВременныеПереселенцыИБеженцы" id="4e2bebe8-6c6c-4663-9304-ca6e39ea0d93"/>
+			<Metadata name="Enum.КатегорииГраждан.EnumValue.СемьиСДетьмиИнвалидами" id="71581b76-30ab-4acd-9470-07a63abba522"/>
+			<Metadata name="Enum.КатегорииГраждан.EnumValue.ДетиСиротыИДетиОставшиесяБезПопеченияРодителей" id="9862c540-9d34-4487-bab9-364586bbb129"/>
+			<Metadata name="Enum.КатегорииГраждан.EnumValue.Неизвестный" id="a5f3c74a-f54b-4ee6-beb3-3956d76f8215"/>
+			<Metadata name="Enum.КатегорииГраждан.EnumValue.ВетераныИУчастникиБоевыхДействий" id="d74e0528-6774-4809-81aa-d39bc3545651"/>
+			<Metadata name="Enum.КатегорииГраждан.EnumValue.МалоимущиеСемьи" id="dd928a54-515c-4a2a-8eac-e649a8dcddd1"/>
+			<Metadata name="Enum.КатегорииГраждан.EnumValue.Пенсионеры" id="e02f0445-58cc-4306-82cc-6ceb676af1e1"/>
+			<Metadata name="Enum.КатегорииГраждан.EnumValue.СемьиВоспитывающиеПриемныхДетей" id="f5ed0f4d-f8da-4ab5-8239-aa4828202d45"/>
+		</Metadata>
+		<Metadata name="Enum.Периодичности" id="dc0f211c-6722-40be-baa3-424ac5497839" configVersion="2c4b6bed125c3d4d89fd41aff2112f7b00000000">
+			<Metadata name="Enum.Периодичности.EnumValue.Ежемесячная" id="0908fe74-e557-4fef-a1f3-793c2019a68e"/>
+			<Metadata name="Enum.Периодичности.EnumValue.Разовая" id="12d61beb-8f98-4d7e-b925-6bf5c5615344"/>
+			<Metadata name="Enum.Периодичности.EnumValue.НаУчебныйГод" id="1c9a0b81-a5e3-4250-bc15-21204e3b4dd5"/>
+			<Metadata name="Enum.Периодичности.EnumValue.НаПротяжении2Месяцев" id="29d048ed-bbdb-44d2-a2bb-c1fb6a2853f0"/>
+			<Metadata name="Enum.Периодичности.EnumValue.Ежеквартальная" id="6f0862ed-6b1b-4c1d-bcef-3342df1dab2f"/>
+			<Metadata name="Enum.Периодичности.EnumValue.Ежегодная" id="9ca41786-51af-4a06-8b58-43d9470e20fb"/>
+			<Metadata name="Enum.Периодичности.EnumValue.РазВКвартал" id="9cd3f2c2-e0c9-4189-b08f-29facb504f87"/>
+		</Metadata>
+		<Metadata name="Enum.СоцСтатусы" id="e6b424d5-e2ef-4c00-85e8-32ecbaa8ca47" configVersion="b6554061b63c5f4f9eedaa8170a8b6d500000000">
+			<Metadata name="Enum.СоцСтатусы.EnumValue.ОпекунИлиПопечитель" id="0ce0f3fc-169d-48c0-b217-45c84b3e6160"/>
+			<Metadata name="Enum.СоцСтатусы.EnumValue.МногодетныйРодитель" id="103ca72d-3160-43c3-9821-239c11ad2954"/>
+			<Metadata name="Enum.СоцСтатусы.EnumValue.Неизвестный" id="23e6c8b3-9265-40d8-a6ef-e9bcad3599be"/>
+			<Metadata name="Enum.СоцСтатусы.EnumValue.Безработный" id="3272d987-be92-415d-b22b-a05b61f44538"/>
+			<Metadata name="Enum.СоцСтатусы.EnumValue.Сирота" id="3cc81fa4-c06a-4f00-9203-22120dcc3535"/>
+			<Metadata name="Enum.СоцСтатусы.EnumValue.Инвалид" id="4de31459-b82c-4667-8cba-77a578932828"/>
+			<Metadata name="Enum.СоцСтатусы.EnumValue.ВетеранТруда" id="6bab3d93-9051-4f58-bcba-b5de75607aec"/>
+			<Metadata name="Enum.СоцСтатусы.EnumValue.Пенсионер" id="abc5e2b6-d8e6-4c1c-9c3d-a938e0680777"/>
+			<Metadata name="Enum.СоцСтатусы.EnumValue.Малоимущий" id="c6d2a176-f17a-482d-9bc6-89fd11bb9495"/>
+			<Metadata name="Enum.СоцСтатусы.EnumValue.ОдинокийРодитель" id="cf904d75-9c7a-4a32-96c3-607aa09fb46c"/>
+			<Metadata name="Enum.СоцСтатусы.EnumValue.Студент" id="f7110969-eb0d-453c-b660-621bcb9c4dcc"/>
+			<Metadata name="Enum.СоцСтатусы.EnumValue.Военнослужащий" id="fbeb53fe-e2e6-4afa-bdde-70787797badc"/>
+		</Metadata>
+		<Metadata name="Enum.СрокиПредоставления" id="5275af5e-ee5e-447d-9fc0-f911f05cd374" configVersion="34cc89dbb95d8942ad5689c73b6f0cb700000000">
+			<Metadata name="Enum.СрокиПредоставления.EnumValue.Месяца3" id="270b5af1-e401-47cc-a895-54a47d061a63"/>
+			<Metadata name="Enum.СрокиПредоставления.EnumValue.Однократно" id="38a19771-8df2-4b50-b724-b6a95ff3dfc5"/>
+			<Metadata name="Enum.СрокиПредоставления.EnumValue.Месяца2" id="629fedc2-5ace-4a38-8741-9f3d5ef6d44e"/>
+			<Metadata name="Enum.СрокиПредоставления.EnumValue.ЕжемесячноВТеченииПолугода" id="76e285db-e4b2-4082-9927-60e343cc6944"/>
+			<Metadata name="Enum.СрокиПредоставления.EnumValue.Полгода" id="8911ee2c-b974-4c2d-8ac8-e9588f608a6a"/>
+			<Metadata name="Enum.СрокиПредоставления.EnumValue.ЕжемесячноВТеченииГода" id="adaeda5f-aa67-4611-8b4e-4a4acbe8a060"/>
+			<Metadata name="Enum.СрокиПредоставления.EnumValue.ДоКонцаУчебногоГода" id="c5170e9f-345b-41d9-8b6a-a22aa4e368e0"/>
+			<Metadata name="Enum.СрокиПредоставления.EnumValue.ДоКонцаГода" id="fb9101de-6959-4c91-bc01-215b2015baba"/>
+		</Metadata>
+		<Metadata name="Enum.СтатусыНуждаемости" id="bd7bf700-a894-48cd-9f68-0200cc6d3eba" configVersion="86f731e4149f8342b32e6f0b81e8269100000000">
+			<Metadata name="Enum.СтатусыНуждаемости.EnumValue.ВысокаяНуждаемость" id="20288771-01f7-4cac-bcf7-73ac64ada449"/>
+			<Metadata name="Enum.СтатусыНуждаемости.EnumValue.ВременнаяПомощь" id="2d4f5b57-9af1-4ec2-9fa0-7454069dcb51"/>
+			<Metadata name="Enum.СтатусыНуждаемости.EnumValue.КритическаяНуждаемость" id="45726940-26c7-4718-ab25-117b6f25c655"/>
+			<Metadata name="Enum.СтатусыНуждаемости.EnumValue.Неизвестный" id="7f618d78-41e9-40ac-8404-85e9920f5a2b"/>
+			<Metadata name="Enum.СтатусыНуждаемости.EnumValue.Переходный" id="862c31a1-4ccc-4399-ac21-f2534959577d"/>
+			<Metadata name="Enum.СтатусыНуждаемости.EnumValue.ПоддержкаНеТребуется" id="9aaf64c7-138c-4f43-9401-86527ab38ab9"/>
+			<Metadata name="Enum.СтатусыНуждаемости.EnumValue.УмереннаяНуждаемость" id="b3d93a5a-5b3c-46c2-9c61-a1e1de3429a9"/>
+			<Metadata name="Enum.СтатусыНуждаемости.EnumValue.СлабаяНуждаемость" id="b6e88365-1450-4939-aa0c-87b5eed2dadd"/>
+		</Metadata>
+		<Metadata name="Enum.СтатусыОбращения" id="1a9cad61-5fd5-41a1-86be-34f674f1a60a" configVersion="8fa7590f6a356545915516b41c72d18c00000000">
+			<Metadata name="Enum.СтатусыОбращения.EnumValue.Одобрено" id="7d38f672-ec24-488e-95cf-a346439a386d"/>
+			<Metadata name="Enum.СтатусыОбращения.EnumValue.Отказано" id="9d37d9f6-c089-405f-ae17-977da50426a9"/>
+			<Metadata name="Enum.СтатусыОбращения.EnumValue.НаРассмотрении" id="d6fac840-5544-44c4-b9d7-bac51d76d7cc"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="9d41827a-d2ed-4a80-979c-39a59de4f194" configVersion="7ca8eed1dbbb524e82b6787457fd15e100000000"/>
+		<Metadata name="Report.ОтчетПоНазначениямПомощи" id="a7fcfb36-8068-4032-af1c-30996941f915" configVersion="fd221d6f4b065a49b95c1ca1c5517c9900000000"/>
+		<Metadata name="Report.ОтчетПоНазначениямПомощи.Template.ОсновнаяСхемаКомпоновкиДанных" id="1fd60150-800f-4c65-8598-8b9d35cf7865" configVersion="083fc80c42f0e84793a8fed49564690000000000"/>
+		<Metadata name="Report.ОтчетПоНазначениямПомощи.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="1fd60150-800f-4c65-8598-8b9d35cf7865.0" configVersion="8acfd10cd50d054788faae25dfceb5b800000000"/>
+		<Metadata name="Report.ОтчетПоРассмотрениямОбращений" id="eaa20319-e242-4c79-9e24-5688eddadb38" configVersion="2d5bd4787967b14b90eb7224fcd994de00000000"/>
+		<Metadata name="Report.ОтчетПоРассмотрениямОбращений.Template.ОсновнаяСхемаКомпоновкиДанных" id="8ff6eeb6-0be0-4920-8976-bacf1a2bbd81" configVersion="3fee2267c156f84c9da7cae77b3df08c00000000"/>
+		<Metadata name="Report.ОтчетПоРассмотрениямОбращений.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="8ff6eeb6-0be0-4920-8976-bacf1a2bbd81.0" configVersion="17bbbbc92ce78c41a588bf07d808315200000000"/>
+		<Metadata name="Subsystem.Администрирование" id="1cbd7fff-65e0-41b6-adbb-a8ca1c68cb5b" configVersion="6e1c972e35d13d45927eb2847c4770f700000000"/>
+		<Metadata name="Subsystem.РаботаСГражданами" id="4d00c6b4-7425-49e2-a8d4-d732174dd7bc" configVersion="78af061f0f7c7a439c3a1509918b8b0900000000"/>
+		<Metadata name="Subsystem.РаботаСГражданами.CommandInterface" id="4d00c6b4-7425-49e2-a8d4-d732174dd7bc.1" configVersion="678be9cada657f4bad2300fb0157555b00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

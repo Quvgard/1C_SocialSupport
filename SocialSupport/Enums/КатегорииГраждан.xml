@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Enum uuid="57122b98-ed6d-459a-bbd1-ffcf3a505138">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.КатегорииГраждан" category="Ref">
+				<xr:TypeId>1a5ad04a-1a81-4cbd-9970-2f56cc60d812</xr:TypeId>
+				<xr:ValueId>7e2a99d2-ef95-42ad-8207-f40019369421</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.КатегорииГраждан" category="Manager">
+				<xr:TypeId>27b63323-a1c4-4f66-a7f7-9de148b7abf3</xr:TypeId>
+				<xr:ValueId>8f7b64b4-e381-4830-93df-cbbb1441d46c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.КатегорииГраждан" category="List">
+				<xr:TypeId>5e35ae31-0e7e-4702-8499-46137c6b2be4</xr:TypeId>
+				<xr:ValueId>915df129-afe4-49d6-a799-b70a677b417d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>КатегорииГраждан</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Категории граждан</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="e02f0445-58cc-4306-82cc-6ceb676af1e1">
+				<Properties>
+					<Name>Пенсионеры</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Пенсионеры</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="1638de35-47c0-45e2-b854-459a27bd0644">
+				<Properties>
+					<Name>Инвалиды</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Инвалиды</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="15df0879-7b7a-4ce1-bf6b-e039574139fd">
+				<Properties>
+					<Name>МногодетныеСемьи</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Многодетные семьи</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="dd928a54-515c-4a2a-8eac-e649a8dcddd1">
+				<Properties>
+					<Name>МалоимущиеСемьи</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Малоимущие семьи</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="1c429ef0-40f0-49ab-8854-d88ca85bfbf9">
+				<Properties>
+					<Name>ОдинокиеРодители</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Одинокие родители</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="71581b76-30ab-4acd-9470-07a63abba522">
+				<Properties>
+					<Name>СемьиСДетьмиИнвалидами</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Семьи с детьми-инвалидами</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="d74e0528-6774-4809-81aa-d39bc3545651">
+				<Properties>
+					<Name>ВетераныИУчастникиБоевыхДействий</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ветераны и участники боевых действий</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="9862c540-9d34-4487-bab9-364586bbb129">
+				<Properties>
+					<Name>ДетиСиротыИДетиОставшиесяБезПопеченияРодителей</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Дети-сироты и дети, оставшиеся без попечения родителей</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="1487724b-2371-425c-93a4-4014b236d71b">
+				<Properties>
+					<Name>БеременныеЖенщиныИЖенщиныСМаленькимиДетьми</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Беременные женщины и женщины с маленькими детьми</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="4e2bebe8-6c6c-4663-9304-ca6e39ea0d93">
+				<Properties>
+					<Name>ВременныеПереселенцыИБеженцы</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Временные переселенцы и беженцы</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="42b94c87-8235-4d07-a2c1-d877533726d4">
+				<Properties>
+					<Name>БезработныеСтоящиеНаУчетеВСлужбеЗанятости</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Безработные, стоящие на учете в службе занятости</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="f5ed0f4d-f8da-4ab5-8239-aa4828202d45">
+				<Properties>
+					<Name>СемьиВоспитывающиеПриемныхДетей</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Семьи, воспитывающие приемных детей</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="a5f3c74a-f54b-4ee6-beb3-3956d76f8215">
+				<Properties>
+					<Name>Неизвестный</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Неизвестный</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>
